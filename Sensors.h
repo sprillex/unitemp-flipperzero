@@ -329,4 +329,5 @@ const GPIO*
 #include "./sensors/HDC1080.h"
 #include "./sensors/MAX31855.h"
 #include "./sensors/MAX6675.h"
+#include "./sensors/MS5611.h"
 #endif
